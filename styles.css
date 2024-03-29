@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.mosaico {
+    display: grid;
+    grid-template-columns: repeat(3, 100px); /* 3 columnas */
+    grid-template-rows: repeat(2, 100px); /* 2 filas */
+    gap: 5px; /* Espacio entre los cuadros */
+    max-width: 990px;
+    max-height: 990px;
+}
+
+.cuadro {
+    width: 100px;
+    height: 100px;
+    background-color: #ccc;
+    transition: background-color 0.3s;
+}
+
+#imagenGrande {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 500px;
+    max-height: 500px;
+    display: none;
+}
