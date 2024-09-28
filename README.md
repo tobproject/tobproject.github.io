@@ -1,9 +1,11 @@
-TOBPROJECT.GITHUB.IO
-=========================
+=============================================================
+   TOBPROJECT.GITHUB.IO
+=============================================================
 
-## Hereś when i will attach all my knowledge about:
+## HERE'S WHERE I WILL START TO SHARE ALL MY KNOWLEDGE ABOUT:
+
 -Cybersecurity: Articles (Blog), Machines, WriteUps, Tools
 -Programming: Python, Bash Scripting
 -AI Generative design (COMMING SOON)
 
-
+==============================================================
