@@ -1,0 +1,10 @@
+url: https://tobproject.github.io/
+baseurl: "/project"
+
+title: TobProject
+autor: 0ldboy
+
+plugins:
+ -jekyll-paginate
+
+ 
