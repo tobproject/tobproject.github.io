@@ -62,4 +62,4 @@ defaults:
       path: ""
       type: "posts"
     values:
-      permalink: """
+      permalink: ""
