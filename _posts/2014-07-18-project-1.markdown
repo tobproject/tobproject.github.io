@@ -1,11 +1,12 @@
 ---
 layout: default
+title: CYBERSECURITY
 modal-id: 1
 date: 2024-10-04
 img: cybersecurity.png
 alt: image-alt
 project-date: October 2024
 client: Start Bootstrap
-category: CYBERSECURITY | MACHINES | WRITEUPS
+category: MACHINES | WRITEUPS
 description: UNDER CONSTRUCTION
 ---
