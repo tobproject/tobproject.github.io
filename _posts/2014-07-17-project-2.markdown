@@ -1,10 +1,10 @@
 ---
 layout: default
 modal-id: 2
-# date: 2014-07-17
+date: 2024-10-04
 img: programming.png
 alt: image-alt
-project-date: April 2014
+project-date: October 2024
 client: Start Bootstrap
 category: Programming
 description: UNDER CONSTRUCTION
